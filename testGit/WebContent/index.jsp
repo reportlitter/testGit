@@ -8,7 +8,7 @@
 </head>
 <body>
 
-INDEX
+INDEX one
 
 </body>
 </html>
